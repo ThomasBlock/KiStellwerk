@@ -15,6 +15,7 @@ KiStellwerk/
 |   |-- best-practices/        # Bewehrte Methoden und Standards
 |
 |-- projekte/                  # Projektmanagement
+|   |-- potenzielle-kunden/    # Leads und potenzielle Kunden
 |   |-- kunden/                # Kundenprojekte (pro Kunde ein Unterordner)
 |   |-- intern/                # Interne Projekte
 |   |-- vorlagen/              # Projektvorlagen und Blueprints
